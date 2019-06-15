@@ -1,4 +1,4 @@
-# Getting started with Tomcat on IBM Cloud
+# Getting started with Tomcat
 
 In this getting started, we'll take you through a sample Tomcat helloWorld app.
 
@@ -7,11 +7,11 @@ In this getting started, we'll take you through a sample Tomcat helloWorld app.
 
 Now you're ready to start working with the sample Tomcat app. Clone the repository and change to the directory to where the sample app is located.
 ```
-git clone https://github.com/IBM-Cloud/get-started-tomcat
-cd get-started-tomcat
+git clone https://github.com/veer-c/tomcatapp
+cd tomcatapp
 ```
 
-Peruse the files in the *get-started-tomcat* directory to familiarize yourself with the contents.
+Peruse the files in the *tomcatapp* directory to familiarize yourself with the contents.
 
 ## 2. Run the app locally
 
